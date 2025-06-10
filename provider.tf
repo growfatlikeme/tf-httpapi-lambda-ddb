@@ -1,3 +1,3 @@
 provider "aws" {
-  region = "" # to configure
+  region = "ap-southeast-1" # to configure
 }
